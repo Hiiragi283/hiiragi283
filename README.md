@@ -1,10 +1,6 @@
-## Hi, My name is Silvengater 👋
-
----
+## Hi, My name is Hiiragi R. Tsubasa 👋
 
 ### About me
-- A.k.a **柊つばさ** (in romaji, **Hiiragi Tsubasa**)
-- I'm someone who wants to be a minecraft modpack developer
-- My strange name Silvengater is an anagram of a word
-
----
+- Please call me **つばさ** (in romaji, **Tsubasa**)
+- I love modded Minecraft!!
+- I want to make friends with modded minecrafter
