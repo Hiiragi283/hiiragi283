@@ -4,3 +4,5 @@
 - Please call me **つばさ** (in romaji, **Tsubasa**)
 - I love modded Minecraft!!
 - I want to make friends with modded minecrafter
+
+[日本語版](https://github.com/Hiiragi283/hiiragi283/edit/main/README.md)
