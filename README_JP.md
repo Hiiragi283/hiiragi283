@@ -1,11 +1,8 @@
-## どうも、Silvengaterです 👋
-
----
+## はじめまして、柊つばさです 👋
 
 ### 自己紹介
-- **Silvengater**(シルヴェンゲーター)ってぶっちゃけ読みづらいですよね
-  - そんな時は**柊つばさ**で大丈夫です
-- 私はMinecraftのmodpack開発者になろうとしている者です
-- 実はこの変な名前、とある単語のアナグラムなんですよ…!
+- 「つばさ」と呼んでください
+- Modded Minecraftが大好きです！
+- Modded クラフターの方々と仲良くしたいです！
 
----
+[For English](https://github.com/Hiiragi283/hiiragi283/blob/main/README.md)
