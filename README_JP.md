@@ -1,9 +1,8 @@
-# はじめまして、柊つばさです 👋
-
-## 自己紹介
-
-- 「つばさ」と呼んでください
-- Modded Minecraftが大好きです！
-- Modded クラフターの方々と仲良くしたいです！
+# Hiiragi Russell Tsubasa
 
 [For English](https://github.com/Hiiragi283/hiiragi283/blob/main/README.md)
+
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiiragi283&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hiiragi283&show_icons=true&theme=tokyonight" />
+</p>
